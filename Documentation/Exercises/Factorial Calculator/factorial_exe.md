@@ -8,11 +8,11 @@ n! = n × (n - 1) × (n - 2) × ... × 2 × 1
 
 Here are a few examples of factorials:
 
-1! = 1
-2! = 2 × 1 = 2
-3! = 3 × 2 × 1 = 6
-4! = 4 × 3 × 2 × 1 = 24
-5! = 5 × 4 × 3 × 2 × 1 = 120
+- 1! = 1
+- 2! = 2 × 1 = 2
+- 3! = 3 × 2 × 1 = 6
+- 4! = 4 × 3 × 2 × 1 = 24
+- 5! = 5 × 4 × 3 × 2 × 1 = 120
 
 Factorials are often used in mathematics, especially in combinatorics and probability theory, to calculate the number of permutations or arrangements of a set of objects, among other applications. Factorials grow rapidly as the input value (n) increases, making them useful for solving problems involving permutations, combinations, and various counting tasks. For large values of n, factorials become very large numbers.
 
