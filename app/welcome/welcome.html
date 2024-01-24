@@ -1,3 +1,6 @@
 <link rel="stylesheet" href="/app/welcome/welcome.css">
 <h2>${title}</h2>
-<list_component></list_component>
+<input value.bind="n">
+<button click.call="initList($context.n)">Add Records</button>
+<button click.call="clearRecords()">Clear Records</button>
+<list-component></list-component>

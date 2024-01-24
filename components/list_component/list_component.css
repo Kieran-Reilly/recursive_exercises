@@ -1,0 +1,14 @@
+list-component {
+    display: block;
+    /*max-height: 25rem;*/
+    overflow-y: auto;
+    --quater-rem: 0.25rem;
+}
+
+list-component li {
+    list-style-type: none;
+    border: 1px solid #ccc;
+    border-radius: var(--quater-rem);
+    padding: 0.5rem;
+    margin: var(--quater-rem);
+}
